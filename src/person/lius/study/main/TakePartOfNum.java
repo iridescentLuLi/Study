@@ -100,5 +100,5 @@ public class TakePartOfNum {
                 Num.append('9');
             }
         return Num.toString();
-    }//翻译成号码
+    }//翻译成  号码
 }
