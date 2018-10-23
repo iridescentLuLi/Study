@@ -3,8 +3,6 @@ package person.lius.study.main;
 public class Parenthesis {
     public static void main(String[] args){
         String pare = "()()(())";
-        char left = '(';
-        char right = ')';
         int num = 0;
         int length = pare.length();
         for (int j = 0; j < length; j++){
